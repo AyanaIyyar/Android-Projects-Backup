@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995503990357",
+    "firebase_url": "https://mit-d568e.firebaseio.com",
+    "project_id": "mit-d568e",
+    "storage_bucket": "mit-d568e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995503990357:android:0a477b0ee7f635574e96dc",
+        "android_client_info": {
+          "package_name": "com.emobilis.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995503990357-6907ohjsoogja7048tbsta6jp6nivg17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLQTgToLnPLpTPtCapyNoRiWsOBSA5QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995503990357-6907ohjsoogja7048tbsta6jp6nivg17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
